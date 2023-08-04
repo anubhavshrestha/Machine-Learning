@@ -1,0 +1,1 @@
+This project analyzes human emotions : happy, angry and sad from a kaggle dataset. Using a naive convolutional+ linear layer in the beginning, the model gets accuracy around 70%+. Later, using pre_trained resnet 18, the accuracy bumps upto almost 90%. 
